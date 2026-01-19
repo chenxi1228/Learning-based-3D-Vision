@@ -41,6 +41,7 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
     - [non-E2E 4D Reconstruction](#non-e2e-4d-reconstruction)
   - [4D Perception](#4d-perception)
   - [3D Free Method](#3d-free-method)
+  - [Monocular 3D Reconstruction](#monocular-3d-reconstruction)
   - [Related Analysis](#related-analysis)
   - [3D Foundation Models' Application](#3d-foundation-models-application)
   - [Acknowledgements](#acknowledgements)
@@ -135,6 +136,13 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
 - [⭐️] **LVSM**, "LVSM: A Large View Synthesis Model with Minimal 3D Inductive Bias". [arXiv 2024.10](https://arxiv.org/abs/2410.17242)
 - [⭐️] **RayZer**, "RayZer: A Self-supervised Large View Synthesis Model". [arXiv 2025.05](https://arxiv.org/abs/2505.00702)
 - [⭐️] **XFactor**, "True Self-Supervised Novel View Synthesis is Transferable". [arXiv 2025.10](https://arxiv.org/abs/2510.13063)
+
+
+## Monocular 3D Reconstruction
+- [⭐️] **SHARP**, "Sharp Monocular View Synthesis in Less Than a Second". [arXiv 2025.12](https://arxiv.org/abs/2512.10685)
+- [⭐️] **Depth Pro**, "Depth Pro: Sharp Monocular Metric Depth in Less Than a Second". [ICLR 2025](https://openreview.net/forum?id=aueXfY0Clv)
+- [⭐️] **Wonder3D**, "Wonder3D: Single Image to 3D using Cross-Domain Diffusion". [CVPR 2024](http://openaccess.thecvf.com/content/CVPR2024/papers/Long_Wonder3D_Single_Image_to_3D_using_Cross-Domain_Diffusion_CVPR_2024_paper.pdf)
+- [⭐️] **Zero-1-to-3**, "Zero-1-to-3: Zero-shot One Image to 3D Object". [ICCV 2023](http://openaccess.thecvf.com/content/ICCV2023/papers/Liu_Zero-1-to-3_Zero-shot_One_Image_to_3D_Object_ICCV_2023_paper.pdf)
 
 
 
