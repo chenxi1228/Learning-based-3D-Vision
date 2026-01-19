@@ -34,9 +34,9 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
   - [Online 3R/SLAM](#online-3rslam)
     - [Online 3R](#online-3r)
     - [SLAM](#slam)
-  - [4D Reconstruction](#4d-reconstruction)
   - [3D Generation](#3d-generation)
   - [3D Perception](#3d-perception)
+  - [4D Reconstruction](#4d-reconstruction)
   - [4D Perception](#4d-perception)
   - [3D Free Method](#3d-free-method)
   - [Related Analysis](#related-analysis)
@@ -61,8 +61,10 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
 - [⭐️] **VGGT**, "On Geometric Understanding and Learned Data Priors in VGGT". [arXiv 2025.03](https://arxiv.org/abs/2503.11651)
 - [⭐️] **E-RayZer**, "E-RayZer: Self-supervised 3D Reconstruction as Spatial Visual Pre-training". [arXiv 2025.12](https://arxiv.org/abs/2512.10950)
 - [⭐️] **π^3**, "π^3: Permutation-Equivariant Visual Geometry Learning". [arXiv 2025.07](https://arxiv.org/abs/2507.13347v2)
-- [⭐️] **OmniVGGT**, "OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer". [arXiv 2025.11](https://arxiv.org/abs/2511.10560v1)
-- [⭐️] **MapAnything**, "MapAnything: Universal Feed-Forward Metric 3D Reconstruction". [arXiv 2025.09](https://arxiv.org/abs/2509.13414v2)
+- **OmniVGGT**, "OmniVGGT: Omni-Modality Driven Visual Geometry Grounded Transformer". [arXiv 2025.11](https://arxiv.org/abs/2511.10560v1)
+- **MapAnything**, "MapAnything: Universal Feed-Forward Metric 3D Reconstruction". [arXiv 2025.09](https://arxiv.org/abs/2509.13414v2)
+- [⭐️] **DA3**, "Depth Anything 3: Recovering the Visual Space from Any Views". [arXiv 2025.11](https://arxiv.org/abs/2511.10647)
+
 
 ## Online 3R/SLAM
 ### Online 3R
@@ -70,25 +72,18 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
 - [⭐️] **CUT3R**, "Continuous 3D Perception Model with Persistent State". [arXiv 2025.01](https://arxiv.org/abs/2501.12387)
 - [⭐️] **Point3R**, "Point3R: Streaming 3D Reconstruction with Explicit Spatial Pointer Memory". [arXiv 2025.07](https://arxiv.org/abs/2507.02863)
 - [⭐️] **StreamVGGT**, "Streaming 4D Visual Geometry Transformer". [arXiv 2025.07](https://arxiv.org/abs/2507.11539)
--  **XStreamVGGT**, "XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry
-Grounded Transformer with KV Cache Compression". [arXiv 2026.01](https://arxiv.org/abs/2601.01204v1)
+-  **XStreamVGGT**, "XStreamVGGT: Extremely Memory-Efficient Streaming Vision Geometry Grounded Transformer with KV Cache Compression". [arXiv 2026.01](https://arxiv.org/abs/2601.01204v1)
 -  **InfiniteVGGT**, "InfiniteVGGT: Visual Geometry Grounded Transformer for Endless Streams". [arXiv 2026.01](https://arxiv.org/abs/2601.02281v1)
 -  **TTT3R**, "TTT3R: 3D RECONSTRUCTION AS TEST-TIME TRAINING". [arXiv 2025.10](https://arxiv.org/abs/2509.26645v3)
+-  **G-CUT3R**, "G-CUT3R: Guided 3D Reconstruction with Camera and Depth Prior Integration". [arXiv 2025.09](https://arxiv.org/abs/2508.11379v2)
+
 ### SLAM
-- [⭐️] **SLAM-Former**, "SLAM-Former: Putting SLAM into One Transformer". [arXiv 2025.09](https://arxiv.org/abs/2509.16909v1)
-- [⭐️] **VGGT-SLAM**, "VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold". [arXiv 2025.09](https://arxiv.org/abs/2505.12549)
+- **MASt3R-SLAM**, "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors". [arXiv 2024.12](https://arxiv.org/abs/2412.12392v2)
+- **GRS-SLAM3R**, "GRS-SLAM3R: Real-Time Dense SLAM with Gated Recurrent State". [arXiv 2025.09](https://arxiv.org/abs/2509.23737v1)
+- **SLAM-Former**, "SLAM-Former: Putting SLAM into One Transformer". [arXiv 2025.09](https://arxiv.org/abs/2509.16909v1)
+- **VGGT-SLAM**, "VGGT-SLAM: Dense RGB SLAM Optimized on the SL(4) Manifold". [arXiv 2025.09](https://arxiv.org/abs/2505.12549)
+- **SLAM3R**, "SLAM3R: Real-Time Dense Scene Reconstruction from Monocular RGB Videos". [arXiv 2024.12](https://arxiv.org/abs/2412.09401)
 
-
-## 4D Reconstruction
-- [⭐️] **4D-VGGT**, "4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation". [arXiv 2025.11](https://arxiv.org/abs/2511.18416)
-- [⭐️] **VGGT4D**, "VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction". [arXiv 2025.11](https://arxiv.org/abs/2511.19971)
-- [⭐️] **Gaussian-Flow**, "Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle". [arXiv 2023.12](https://arxiv.org/abs/2312.03431)
-- [⭐️] **Shape of Motion**, "Shape of Motion: 4D Reconstruction from a Single Video". [arXiv 2024.7](https://arxiv.org/abs/2407.13764)
-- [⭐️] **St4RTrack**, "St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World". [arXiv 2025.4](https://arxiv.org/abs/2504.13152)
-- [⭐️] **SplatFields**, "Neural Gaussian Splats for Sparse 3D and 4D Reconstruction". [arXiv 2024.9](https://arxiv.org/abs/2409.11211)
-- [⭐️] **L4GM**, "L4GM: Large 4D Gaussian Reconstruction Model". [arXiv 2024.7](https://arxiv.org/abs/2406.10324)
-- [⭐️] **D4RT**, "Efficiently Reconstructing Dynamic Scenes One D4RT at a Time". [arXiv 2025.12](https://arxiv.org/abs/2512.08924)
-- [⭐️] **One4D**, "One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control". [arXiv 2025.11](https://arxiv.org/abs/2511.18922)
 
 ## 3D Generation
 - [⭐️] **Zero123++**, "Zero123++: a Single Image to Consistent Multi-view Diffusion Base Model"[arXiv 2023.10](https://arxiv.org/abs/2310.15110)
@@ -101,16 +96,32 @@ Grounded Transformer with KV Cache Compression". [arXiv 2026.01](https://arxiv.o
 
 ## 3D Perception
 - [⭐️] **SAM3D**, "SAM3D: Zero-Shot 3D Object Detection via Segment Anything Model". [arXiv 2024.01](https://arxiv.org/abs/2306.02245v2)
+- [⭐️] **Depth Anything**, "Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data". [arXiv 2024.01](https://arxiv.org/abs/2401.10891)
+- [⭐️] "Depth Anything v2". [arXiv 2024.06](https://arxiv.org/abs/2406.09414)
+- **DA^2**, "DA^2: Depth Anything in Any Direction". [arXiv 2025.09](https://arxiv.org/abs/2509.26618)
+- "Depth Anything at Any Condition". [arXiv 2025.07](https://arxiv.org/abs/2507.01634)
+
+## 4D Reconstruction
+- [⭐️] **4D-VGGT**, "4D-VGGT: A General Foundation Model with SpatioTemporal Awareness for Dynamic Scene Geometry Estimation". [arXiv 2025.11](https://arxiv.org/abs/2511.18416)
+- [⭐️] **VGGT4D**, "VGGT4D: Mining Motion Cues in Visual Geometry Transformers for 4D Scene Reconstruction". [arXiv 2025.11](https://arxiv.org/abs/2511.19971)
+- **Gaussian-Flow**, "Gaussian-Flow: 4D Reconstruction with Dynamic 3D Gaussian Particle". [arXiv 2023.12](https://arxiv.org/abs/2312.03431)
+- **Shape of Motion**, "Shape of Motion: 4D Reconstruction from a Single Video". [arXiv 2024.7](https://arxiv.org/abs/2407.13764)
+- **St4RTrack**, "St4RTrack: Simultaneous 4D Reconstruction and Tracking in the World". [arXiv 2025.4](https://arxiv.org/abs/2504.13152)
+- **SplatFields**, "Neural Gaussian Splats for Sparse 3D and 4D Reconstruction". [arXiv 2024.9](https://arxiv.org/abs/2409.11211)
+- **L4GM**, "L4GM: Large 4D Gaussian Reconstruction Model". [arXiv 2024.7](https://arxiv.org/abs/2406.10324)
+- **D4RT**, "Efficiently Reconstructing Dynamic Scenes One D4RT at a Time". [arXiv 2025.12](https://arxiv.org/abs/2512.08924)
+- **One4D**, "One4D: Unified 4D Generation and Reconstruction via Decoupled LoRA Control". [arXiv 2025.11](https://arxiv.org/abs/2511.18922)
+- **V-DPM**, "V-DPM: 4D Video Reconstruction with Dynamic Point Maps". [arXiv 2026.01](https://arxiv.org/abs/2601.09499)
 
 ## 4D Perception
-- [⭐️] **Trace Anything**, "Trace Anything: Representing Any Video in 4D via Trajectory Fields". [arXiv 2025.10](https://arxiv.org/abs/2510.13802)
-- [⭐️] **3AM**, "3AM: Segment Anything with Geometric Consistency in Videos". [arXiv 2026.01](https://arxiv.org/abs/2601.08831)
+- **Trace Anything**, "Trace Anything: Representing Any Video in 4D via Trajectory Fields". [arXiv 2025.10](https://arxiv.org/abs/2510.13802)
+- **3AM**, "3AM: Segment Anything with Geometric Consistency in Videos". [arXiv 2026.01](https://arxiv.org/abs/2601.08831)
 - [⭐️] **OmniWorld**, "OmniWorld: A Multi-Domain and Multi-Modal Dataset for
 4D World Modeling". [arXiv 2025.09](https://arxiv.org/abs/2509.12201v1)
 - [⭐️] **ViPE**, "ViPE: Video Pose Engine for 3D Geometric Perception
 ". [arXiv 2025.08](https://arxiv.org/abs/2508.10934)
-- [⭐️] **DynamicVerse**, "DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling". [arXiv 2025.12](https://arxiv.org/abs/2512.03000)
-- [⭐️] **Uni4D**, "Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video". [arXiv 2025.03](https://arxiv.org/abs/2503.21761)
+- **DynamicVerse**, "DynamicVerse: A Physically-Aware Multimodal Framework for 4D World Modeling". [arXiv 2025.12](https://arxiv.org/abs/2512.03000)
+- **Uni4D**, "Uni4D: Unifying Visual Foundation Models for 4D Modeling from a Single Video". [arXiv 2025.03](https://arxiv.org/abs/2503.21761)
 
 
 ## 3D Free Method
