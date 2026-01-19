@@ -94,8 +94,7 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
 - [⭐️] **LRM**, "LRM: Large Reconstruction Model for Single Image to 3D"[arXiv 2023.11](https://arxiv.org/abs/2311.04400)
 - [⭐️] **LGM**, "LGM: Large Multi-View Gaussian Model for High-Resolution 3D Content Creation". [arXiv 2024.02](https://arxiv.org/abs/2402.05054)
 - [⭐️] **TRELLIS**, "Structured 3D Latents for Scalable and Versatile 3D Generation". [arXiv 2024.12](https://arxiv.org/pdf/2412.01506)
-- [⭐️] **LYRA**, "LYRA: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation
-". [arXiv 2025.09](https://arxiv.org/pdf/2509.19296v1)
+- [⭐️] **LYRA**, "LYRA: Generative 3D Scene Reconstruction via Video Diffusion Model Self-Distillation". [arXiv 2025.09](https://arxiv.org/pdf/2509.19296v1)
 
 
 ## 3D Perception
@@ -142,8 +141,7 @@ Major updates and announcements are shown below. Scroll for full taxonomy and pa
 
 ## Related Analysis
 - [⭐️] "How Much 3D Do Video Foundation Models Encode?". [arXiv 2025.07](https://arxiv.org/abs/2512.19949)
-- [⭐️] "What Is The Best 3D Scene Representation for
-Robotics? From Geometric to Foundation Models". [arXiv 2025.12](https://arxiv.org/abs/2512.03422v1)
+- [⭐️] "What Is The Best 3D Scene Representation for Robotics? From Geometric to Foundation Models". [arXiv 2025.12](https://arxiv.org/abs/2512.03422v1)
 - "On Geometric Understanding and Learned Data Priors in VGGT". [arXiv 2025.12](https://arxiv.org/abs/2512.11508)
 
 
